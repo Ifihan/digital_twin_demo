@@ -108,7 +108,7 @@ if uploaded:
         st.sidebar.error("Couldn't read that file. Check it matches the knowledge base format.")
 
 # Main chat interface
-st.title("🤖 Personal Assistant")
+st.titlel("🤖 Personal Assistant")
 if st.session_state.user_name:
     st.write(f"Chatting as: **{st.session_state.user_name}**")
 st.caption(f"📚 {len(entries)} entries in the knowledge base")
