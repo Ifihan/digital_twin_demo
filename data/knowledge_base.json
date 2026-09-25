@@ -1,0 +1,18 @@
+{
+  "owner": "Digital Twin",
+  "description": "Diary entries the digital twin answers from. Edit these to make the twin yours.",
+  "entries": [
+    {"day": "Monday", "time": "7:45am", "text": "Had scrambled eggs and toast for breakfast before work."},
+    {"day": "Monday", "time": "1:00pm", "text": "Lunch was jollof rice and chicken with Tolu at the office canteen."},
+    {"day": "Monday", "time": "6:00pm", "text": "Finished the Streamlit chapter of the AI course. Session state finally makes sense."},
+    {"day": "Tuesday", "time": "6:30pm", "text": "Went for a 5km run around the estate. Felt great, finished in 31 minutes."},
+    {"day": "Tuesday", "time": "9:00pm", "text": "Watched two episodes of a Nollywood series with my sister."},
+    {"day": "Wednesday", "time": "8:00am", "text": "Morning standup ran long. Need to prepare the deployment demo by Friday."},
+    {"day": "Wednesday", "time": "9:00pm", "text": "Finished reading chapter 4 of Things Fall Apart by Chinua Achebe."},
+    {"day": "Thursday", "time": "12:30pm", "text": "Tried a new amala spot near the office. The ewedu was excellent."},
+    {"day": "Thursday", "time": "7:00pm", "text": "Deployed my first Streamlit app to Streamlit Community Cloud. It worked on the second try after fixing requirements.txt."},
+    {"day": "Friday", "time": "10:00am", "text": "Presented the Digital Twin demo to the team. They loved the chat interface."},
+    {"day": "Saturday", "time": "11:00am", "text": "Went to the market and bought tomatoes, peppers and plantain. Spent 8,500 naira."},
+    {"day": "Sunday", "time": "4:00pm", "text": "Called Mum. She reminded me about cousin Bisi's wedding next month."}
+  ]
+}
